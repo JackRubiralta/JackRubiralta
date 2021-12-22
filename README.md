@@ -1,10 +1,5 @@
 - 👋 Hi, I’m @JackRubiralta
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 👀 I’m interested in engineering, programing, math and physics.
+- 🌱 I’m currently learning Unity.
+- 📫 How to reach me JackRubiralt@Outlook.com
 
-<!---
-JackRubiralta/JackRubiralta is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
